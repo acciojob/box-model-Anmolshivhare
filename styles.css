@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 .container {
-  width: 300px;
+  width: 500px;
   margin: 0 auto;
   padding: 20px;
   border: 2px solid black;
@@ -17,7 +17,7 @@
 }
 
 .red {
-  background-color: red;
+  background-color: rgb(255, 0, 0);
 }
 
 .green {
